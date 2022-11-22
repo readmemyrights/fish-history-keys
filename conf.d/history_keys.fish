@@ -7,3 +7,5 @@ bind. \e1 __history_keys_whole
 bind. \e! __history_keys_whole
 bind. \e4 __history_keys_lastword
 bind. \e\$ __history_keys_lastword
+bind. \e8 __history_keys_args
+bind. \e\* __history_keys_args
