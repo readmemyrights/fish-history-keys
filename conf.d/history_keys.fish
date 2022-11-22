@@ -6,4 +6,4 @@ end
 bind. \e1 __history_keys_whole
 bind. \e! __history_keys_whole
 bind. \e4 __history_keys_lastword
-bind. \e$ __history_keys_lastword
+bind. \e\$ __history_keys_lastword
