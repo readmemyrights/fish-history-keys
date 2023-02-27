@@ -14,8 +14,6 @@ This plugin maps keys to insert parts of the last entered command into the comma
 
 ## key bindings
 
-Note: not all of these are implemented yet
-
 | keys      | function                  | description                               |
 | --------- | ------------------------- | ----------------------------------------- |
 | M-1, M-!  | \_\_history_keys_whole    | inserts entire last command               |
